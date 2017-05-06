@@ -11,6 +11,7 @@ int main(){
 		for(j=0;j<p;j++){
 			if(i%Pri[j]==0){
 				count = 1;
+				break;
 			}
 		}
 		if(count==0){
