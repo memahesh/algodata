@@ -8,8 +8,8 @@ int main(){
 	p = 2;
 	for(i=4;i<N;i++){
 		count = 0;
-		for(j=2;j<i;j++){
-			if(i%j==0){
+		for(j=0;j<p;j++){
+			if(i%Pri[j]==0){
 				count = 1;
 			}
 		}
