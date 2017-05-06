@@ -20,3 +20,4 @@ int main(){
 		printf("Number of %d-Ratings : %d\n", i, Ratings[i]);
 	}
 }
+
