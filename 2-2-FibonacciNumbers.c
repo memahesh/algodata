@@ -1,6 +1,6 @@
 /*Fibonacci Numbers*/
 #include <stdio.h>
-#define N 20
+#define N 15
 int main(){
 	int Fib[N], i;
 	Fib[0]=0;
