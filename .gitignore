@@ -3,5 +3,7 @@
 2-3-PrimesBelowN.exe
 c++/BasicCalcuator.exe
 c++/FunctionOverloading.exe
-
-
+c++/BinarySearch.exe
+c++/InsertionSort.exe
+c++/MergeSort.exe
+c++/SelectionStart.exe
